@@ -1,1 +1,0 @@
-Welcome to my Data Analytics Portfolio! I am a Data Analyst with experience in data collection, cleaning, and visualization using Power BI and Excel. I specialize in analyzing sales trends, customer behaviors, and marketing performance to support data-driven decision-making and strategic planning.
